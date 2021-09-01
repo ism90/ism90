@@ -1,13 +1,13 @@
-## Hi there, I'm Ian 👋
+## Hi there, I'm Ian.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ism90.ism90)
 [![Github](https://img.shields.io/github/followers/ism90?label=Follow&style=social)](https://github.com/ism90)
 
-👨‍💻 ## Languages and Tools: 
+## Languages and Tools: 
 
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
+![image]({https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white})
+![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
 
 ![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ism90&theme=dracula&show_icons=true)
 
@@ -15,7 +15,7 @@ https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascri
 
 
 
-✉️ ## Find me on:
+ ## Find me on:
 
 
 <!--
