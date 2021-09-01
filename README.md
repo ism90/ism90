@@ -8,7 +8,7 @@
 
 ![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ism90&theme=dracula&show_icons=true)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ism90&langs_count=5&theme=dracula)]()
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ism90&theme=dracula)
 
 
 
