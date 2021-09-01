@@ -1,5 +1,7 @@
 ## Hi there, I'm Ian.
 
+----
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=ism90.ism90)
 [![Github](https://img.shields.io/github/followers/ism90?label=Follow&style=social)](https://github.com/ism90)
 
