@@ -1,15 +1,11 @@
 ### Hi there, I'm Ian. 👋
 
-<br>
-
----
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ism90.ism90)
 [![Github](https://img.shields.io/github/followers/ism90?label=Follow&style=social)](https://github.com/ism90)
 
-<br>
 
----
+
 
 ### Languages and Tools:
 
@@ -23,9 +19,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br>
-<br>
 
----
+
 
 ### Find me on:
 
@@ -35,7 +30,7 @@
 
 <br>
 
----
+###
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ism90&show_icons=true&theme=dracula)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ism90&theme=dracula)
