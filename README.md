@@ -37,9 +37,5 @@
 
 ---
 
-
-<details>
-  <summary><b>Recent GitHub Activity<b></summary>
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ism90&show_icons=true&hide_border=true" />
-</details>
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ism90&show_icons=true&theme=dracula)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ism90&theme=dracula)
