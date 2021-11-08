@@ -1,5 +1,6 @@
-## Hi there, I'm Ian. 👋
+## Hello There 👋
 
+I'm Ian, a Junior Dev based in London, UK. I am currently undertaking the 12-week Software Developer Course with [_nology](https://nology.io/).
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ism90.ism90)
 [![Github](https://img.shields.io/github/followers/ism90?label=Follow&style=social)](https://github.com/ism90)
