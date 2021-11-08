@@ -10,7 +10,7 @@ I'm Ian, a Junior Dev based in London, UK. I am currently undertaking the 12-wee
 
 ## Connect with me:
 
-<a href="https://www.linkedin.com/in/ianm5/" target="_blank"><img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<a href="https://www.linkedin.com/in/ianm5/" target="_blank">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 
