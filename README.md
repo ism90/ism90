@@ -2,8 +2,7 @@
 
 I'm Ian, a Junior Dev based in London, UK. I am currently undertaking the 12-week Software Developer Course with [_nology](https://nology.io/).
 
-![](https://visitor-badge.laobi.icu/badge?page_id=ism90.ism90)
-[![Github](https://img.shields.io/github/followers/ism90?label=Follow&style=social)](https://github.com/ism90)
+
 
 
 
@@ -11,7 +10,7 @@ I'm Ian, a Junior Dev based in London, UK. I am currently undertaking the 12-wee
 
 ## Connect with me:
 
-<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<a href="https://www.linkedin.com/in/ianm5/" target="_blank"><img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 
@@ -35,3 +34,7 @@ I'm Ian, a Junior Dev based in London, UK. I am currently undertaking the 12-wee
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ism90&show_icons=true&theme=dracula)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ism90&theme=dracula)
+
+
+![](https://visitor-badge.laobi.icu/badge?page_id=ism90.ism90)
+[![Github](https://img.shields.io/github/followers/ism90?label=Follow&style=social)](https://github.com/ism90)
