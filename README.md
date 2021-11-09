@@ -32,6 +32,3 @@ I'm Ian, a Junior Dev based in London, UK. I am currently undertaking the 12-wee
 
 ![image](https://github-readme-stats.vercel.app/api?username=ism90)
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=ism90)
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ism90.visitor-badge)
-[![Github](https://img.shields.io/github/followers/ism90?label=Follow&style=social)](https://github.com/ism90)
