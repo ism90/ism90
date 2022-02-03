@@ -1,6 +1,6 @@
 ## Hello There 👋
 
-I'm Ian, a Junior Dev based in London, UK. I am currently undertaking the 12-week Software Developer Course with [_nology](https://nology.io/).
+I'm Ian, a Junior Dev based in London, UK. I have recently completed the 12-week Software Developer Course with [_nology](https://nology.io/).
 
 
 
