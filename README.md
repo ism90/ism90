@@ -10,7 +10,7 @@ I'm Ian, a Junior Dev based in London, UK. I have recently completed the 12-week
 
 ## Connect with me:
 
-<a href="https://www.linkedin.com/in/ianm5/" target="_blank">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/ism90/" target="_blank">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <a href="mailto:ianmason5@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 <br>
